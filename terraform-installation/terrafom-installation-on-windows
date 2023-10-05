@@ -1,0 +1,8 @@
+step 1: Go to the official terraform website
+    https://developer.hashicorp.com/terraform/downloads
+
+step 2: Binary download for Windows (386, AMD64) based on processor configuration
+
+step 3: Extract the downloaded file, then you will get terraform
+
+step 4: setup envirnment variable for terraform
